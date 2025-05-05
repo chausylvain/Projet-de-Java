@@ -1,20 +1,26 @@
-May 02, 2025 5:44:48 PM logger.LoggerFactory getLogger
-INFO: log file created
-May 02, 2025 5:44:48 PM application.MainFX start
-INFO: Loading FXML file ...
-May 02, 2025 5:44:48 PM application.MainFX start
-INFO: Setting up controller
-May 02, 2025 5:44:48 PM application.MainFX start
-INFO: Setting up GUI...
-May 02, 2025 5:44:51 PM application.Controller quitActionImpl
-INFO: Quit action triggered
-May 02, 2025 5:44:51 PM application.Controller savePreferences
-INFO: Save log level preference = INFO
-May 02, 2025 5:44:51 PM application.Controller savePreferences
-INFO: Save width preference = 1918.0
-May 02, 2025 5:44:51 PM application.Controller savePreferences
-INFO: Save height preference = 786.0
-May 02, 2025 5:44:51 PM application.Controller savePreferences
-INFO: Save Buttons display style preference = Graphics Only
-May 02, 2025 5:44:51 PM application.Controller savePreferences
-INFO: Save number type preference = Doubles
+mai 05, 2025 10:28:48 AM logger.LoggerFactory getLogger
+INFOS: log file created
+mai 05, 2025 10:28:49 AM application.MainFX start
+INFOS: Loading FXML file ...
+mai 05, 2025 10:28:49 AM application.MainFX start
+INFOS: Setting up controller
+mai 05, 2025 10:28:49 AM application.MainFX start
+INFOS: Setting up GUI...
+mai 05, 2025 10:28:55 AM application.Controller onOpenAction
+INFOS: Open Action triggered ...
+mai 05, 2025 10:28:57 AM application.Controller onSaveAction
+INFOS: Undo Action triggered ...
+mai 05, 2025 10:28:57 AM application.Controller onSaveAction
+INFOS: Undo Action triggered ...
+mai 05, 2025 10:28:58 AM application.Controller quitActionImpl
+INFOS: Quit action triggered
+mai 05, 2025 10:28:58 AM application.Controller savePreferences
+INFOS: Save log level preference = INFO
+mai 05, 2025 10:28:58 AM application.Controller savePreferences
+INFOS: Save width preference = 1550.4000244140625
+mai 05, 2025 10:28:58 AM application.Controller savePreferences
+INFOS: Save height preference = 926.4000244140625
+mai 05, 2025 10:28:58 AM application.Controller savePreferences
+INFOS: Save Buttons display style preference = Graphics Only
+mai 05, 2025 10:28:58 AM application.Controller savePreferences
+INFOS: Save number type preference = Doubles
