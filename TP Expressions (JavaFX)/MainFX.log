@@ -1,0 +1,20 @@
+May 02, 2025 5:44:48 PM logger.LoggerFactory getLogger
+INFO: log file created
+May 02, 2025 5:44:48 PM application.MainFX start
+INFO: Loading FXML file ...
+May 02, 2025 5:44:48 PM application.MainFX start
+INFO: Setting up controller
+May 02, 2025 5:44:48 PM application.MainFX start
+INFO: Setting up GUI...
+May 02, 2025 5:44:51 PM application.Controller quitActionImpl
+INFO: Quit action triggered
+May 02, 2025 5:44:51 PM application.Controller savePreferences
+INFO: Save log level preference = INFO
+May 02, 2025 5:44:51 PM application.Controller savePreferences
+INFO: Save width preference = 1918.0
+May 02, 2025 5:44:51 PM application.Controller savePreferences
+INFO: Save height preference = 786.0
+May 02, 2025 5:44:51 PM application.Controller savePreferences
+INFO: Save Buttons display style preference = Graphics Only
+May 02, 2025 5:44:51 PM application.Controller savePreferences
+INFO: Save number type preference = Doubles
